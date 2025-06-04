@@ -1,0 +1,6 @@
+PUT http://localhost:5066/items/1
+Content-Type: application/json
+{
+    "Name":"The updated name"
+}
+
